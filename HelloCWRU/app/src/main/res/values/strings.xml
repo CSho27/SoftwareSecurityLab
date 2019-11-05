@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello CWRU</string>
+    <string name="call">CALL</string>
+    <string name="text">Send Text</string>
+    <string name="enter_number_hint">Enter your number</string>
+    <string name="enter_text_hint">Enter text message here</string>
+</resources>
